@@ -819,7 +819,7 @@ data/sales_data.csv
 
 # Author
 
-Python Data Science Learning Projects
+Sohail Ansari
 
 ------------------------------------------------------------------------
 
